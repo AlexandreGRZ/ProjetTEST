@@ -1,4 +1,5 @@
-public main(){
-    print("veop^hgvrjhefbknl,mz;ù:µ")
+﻿public main(){
+    print("Hello word")
+
     return 0;
 }
